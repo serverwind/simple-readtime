@@ -2,7 +2,7 @@
 
 This script will calculate average amount of time, what person can spend on reading article.
 
-Script works on formula: total words from <p> tags divided by 200 (200 its amount of words, what average person spend to read in 1 minute).
+Script works on formula: total words from &lt;p&gt; tags divided by 200 (200 its amount of words, what average person spend to read in 1 minute).
 
 # Installation
 
