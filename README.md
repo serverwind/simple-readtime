@@ -7,4 +7,8 @@ Script works on formula: total words from &lt;p&gt; tags divided by 200 (200 its
 # Installation
 
 1. Add *app.js* to your pages, where you want to calculate read time.
+<<<<<<< HEAD
 2. Add &lt;div&gt;Average read time: ~&lt;span id='read-time'&gt;&lt;/span&gt; min.&lt;/div&gt; in place, where you want to see it.
+=======
+2. Add <div>Average read time: ~<span id='read-time'></span> min.</div> in place, where you want to see it.
+>>>>>>> ada63220d60bdb6a79573d054a0b12869ea13b68
